@@ -15,7 +15,7 @@
     "โปรแกรมฟุตบอลโลก 2022",
     "ฟุตบอลโลก2022 ถ่ายทอดสด"
   ],
-  "repository": "https://github.com/aaamagic/walesvsengland2022",
+  "repository": "https://github.com/aaamagic/walesengland2022",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
